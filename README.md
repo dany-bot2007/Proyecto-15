@@ -1,2 +1,1 @@
-# Proyecto-15
-Globos y arco 2
+# ExplotarGlobos2-plantilla
